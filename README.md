@@ -40,11 +40,10 @@ browsed at [History](https://www.quantlib.org/reference/history.html).
 
 The preferred channel for questions (and the one with the largest
 audience) is the quantlib-users mailing list.  Instructions for
-subscribing are at <https://www.quantlib.org/mailinglists.shtml>.
+subscribing are at [Mailing Lists](https://www.quantlib.org/mailinglists.shtml).
 
-Bugs can be reported as a GitHub issue at
-<https://github.com/lballabio/QuantLib/issues>; if you have a patch
-available, you can open a pull request instead (see "Contributing"
+Bugs can be reported as a GitHub issue at [QuantLib issues](https://github.com/lballabio/QuantLib/issues). 
+If you have a patch available, you can open a pull request instead (see "Contributing"
 below).
 
 
