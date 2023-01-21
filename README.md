@@ -28,7 +28,7 @@ Software.
 ## Download and usage
 
 QuantLib can be downloaded from [Downloads](https://www.quantlib.org/download.shtml);
-installation instructions are available at [Install](https://www.quantlib.org/install.shtml) for most platforms.
+installation instructions are available at [Installation instructions](https://www.quantlib.org/install.shtml) for most platforms.
 
 Find documentation for the usage and the design of the [QuantLib library](https://www.quantlib.org/docs.shtml) here.
 
